@@ -5,7 +5,8 @@
   "description": "纯前端、零后端、零账号的 OpenAI 兼容协议聊天界面。数据（对话、设置、API Key、长期记忆）全部保存在浏览器 localStorage 中。",
   "scripts": {
     "build": "tailwindcss -i ./src/tailwind.css -o ./assets/css/app.css --minify",
-    "dev": "tailwindcss -i ./src/tailwind.css -o ./assets/css/app.css --watch"
+    "dev": "tailwindcss -i ./src/tailwind.css -o ./assets/css/app.css --watch",
+    "test": "node --test --test-force-exit tests/"
   },
   "keywords": [
     "chat",
