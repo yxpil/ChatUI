@@ -299,3 +299,15 @@ API Key 错误 / 未填，或使用了需要 Key 的中转。
 
 **Q：换浏览器后数据没了？**
 数据按浏览器 + 站点隔离存储，用「设置 → 数据 → 导出全部数据」迁移。
+
+---
+
+<div align="center">
+
+<a href="https://github.com/yxpil/ChatUI">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=yxpil/ChatUI" alt="gh-card · yxpil/ChatUI" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
